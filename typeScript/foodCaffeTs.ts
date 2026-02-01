@@ -12,8 +12,8 @@ type MenuItem  = {
   const menuData = {
 burgers: [
   {img: `img/Burger1.png`, price: 689, subtitle: `Мясная бомба`, weight: `520г`},
-   {img: `img/Burger2.png`, price: 550, subtitle: `Супер сырный`, weight: `512г`},
-    {img: `img/Burger3.png`, price: 639, subtitle: `Сытный`, weight: `580г`},
+   {img: `img/burger2.png`, price: 550, subtitle: `Супер сырный`, weight: `512г`},
+    {img: `img/burger3.png`, price: 639, subtitle: `Сытный`, weight: `580г`},
      {img: `img/Burger4.png`, price: 480, subtitle: `Тяжелый удар`, weight: `470г`},
       {img: `img/Burger8.png`, price: 450, subtitle: `Вечная классика`, weight: `450г`},
        {img: `img/Burger9.png`, price: 560, subtitle: `Итальянский`, weight: `510г`}
