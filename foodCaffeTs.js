@@ -2,8 +2,8 @@
 var menuData = {
     burgers: [
         { img: "img/Burger1.png", price: 689, subtitle: "\u041C\u044F\u0441\u043D\u0430\u044F \u0431\u043E\u043C\u0431\u0430", weight: "520\u0433" },
-        { img: "img/Burger2.png", price: 550, subtitle: "\u0421\u0443\u043F\u0435\u0440 \u0441\u044B\u0440\u043D\u044B\u0439", weight: "512\u0433" },
-        { img: "img/Burger3.png", price: 639, subtitle: "\u0421\u044B\u0442\u043D\u044B\u0439", weight: "580\u0433" },
+        { img: "img/burger2.png", price: 550, subtitle: "\u0421\u0443\u043F\u0435\u0440 \u0441\u044B\u0440\u043D\u044B\u0439", weight: "512\u0433" },
+        { img: "img/burger3.png", price: 639, subtitle: "\u0421\u044B\u0442\u043D\u044B\u0439", weight: "580\u0433" },
         { img: "img/Burger4.png", price: 480, subtitle: "\u0422\u044F\u0436\u0435\u043B\u044B\u0439 \u0443\u0434\u0430\u0440", weight: "470\u0433" },
         { img: "img/Burger8.png", price: 450, subtitle: "\u0412\u0435\u0447\u043D\u0430\u044F \u043A\u043B\u0430\u0441\u0441\u0438\u043A\u0430", weight: "450\u0433" },
         { img: "img/Burger9.png", price: 560, subtitle: "\u0418\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439", weight: "510\u0433" }
